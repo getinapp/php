@@ -15,6 +15,7 @@ RUN apk upgrade \
 		git \
         unzip \
         openssl \
+        openssh-client \
         libzip-dev \
         libstdc++ \
         libstdc++6 \
